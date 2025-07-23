@@ -1,0 +1,10 @@
+<resources>
+
+
+    <string name="dialog_title">Add Task</string>
+    <string name="button_add">Add</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="error_title_empty">Title cannot be empty</string>
+    <string name="app_name">TODO_LIST</string>
+
+</resources>
